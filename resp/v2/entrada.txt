@@ -1,0 +1,1 @@
+INICIO SUMATORIA(a=0,2,(a+1); FIN
